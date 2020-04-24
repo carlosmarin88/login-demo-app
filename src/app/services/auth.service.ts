@@ -10,7 +10,7 @@ export class AuthService {
 
 private url = 'https://identitytoolkit.googleapis.com/v1/';
 
-private apiKey = 'AIzaSyAwPspw6JEPoZShJhTlvB2ndIj54Fjbj8s';
+private apiKey = 'key_api_firebase_web';
 
 private userToken: string;
 
